@@ -2,6 +2,24 @@
 <html>
 <head>
 	<?php include('../include/head.php'); ?>
+	<style>
+	legend.scheduler-border {
+font-size: 1.2em !important;
+font-weight: bold !important;
+text-align: left !important;
+width:auto;
+padding:0 10px;
+border-bottom:none;
+}
+ legend.scheduler-border {
+        font-size: 1.2em !important;
+        font-weight: bold !important;
+        text-align: left !important;
+        width:auto;
+        padding:0 10px;
+        border-bottom:none;
+    }
+	</style>
 </head>
 <body>
 	<?php include('../include/header.php'); ?>
@@ -30,17 +48,19 @@
 				</div>
 				</div>
 
-			
+			<form>
 			<div class="bg-white pd-20 box-shadow border-radius-5 mb-30">
-			
-<form>
- <fieldset>
-  <legend>Personalia:</legend>
-  Name: <input type="text"><br>
-  Email: <input type="text"><br>
-  Date of birth: <input type="text">
- </fieldset>
-</form>
+			<fieldset class="scheduler-border">
+						<legend class="scheduler-border">Basic Information</legend>
+						  <div class="form-group col-md-6">
+                            <label class="">Restaurant Name</label>
+                            <div class="">
+                                <input type="text" class="form-control" name="firstName" placeholder="Enter Restaurant Name" />
+                            </div>
+                        </div>
+			</fieldset>	
+			</form>			
+
 				<form id="defaultForm" method="post" action="form-validation.php">
                         <div class="row">
                         <div class="form-group col-md-6">
