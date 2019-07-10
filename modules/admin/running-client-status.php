@@ -9,7 +9,7 @@
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
 						<div class="title">
-							<h4>Advanced Components</h4>
+							<h4>Add Running Client Status</h4>
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12 text-right">
@@ -17,7 +17,7 @@
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.php">Home</a>
 								</li>
-								<li class="breadcrumb-item active" aria-current="page">Advanced Components</li>
+								<li class="breadcrumb-item active" aria-current="page">Add Running Client Status</li>
 							</ol>
 						</nav>
 					</div>
@@ -27,7 +27,7 @@
 		<div class="bg-white pd-20 box-shadow border-radius-5 mb-30">
 			<form>
 				 <fieldset class="scheduler-border">
-						<legend class="scheduler-border">Basic Information</legend>
+						<legend class="scheduler-border">Client Status Information</legend>
 					
 					<div class="row">
 					<div class="form-group col-md-6">
