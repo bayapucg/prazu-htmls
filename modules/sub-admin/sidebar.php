@@ -54,10 +54,38 @@
 							<span class="fa fa-home"></span><span class="mtext">Billing</span>
 						</a>
 						<ul class="submenu">
-							<li><a href="add-menu.php">Add Billing</a></li>
+							<li><a href="add-billing.php">Add Billing</a></li>
+							<li><a href="tables-list.php">Billing List</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a href="javascript:;" class="dropdown-toggle">
+							<span class="fa fa-home"></span><span class="mtext">Feedback & Ratings </span>
+						</a>
+						<ul class="submenu">
+							<li><a href="add-billing.php">Add Feedback & Ratings</a></li>
 							<li><a href="tables-list.php">Menu List</a></li>
 						</ul>
 					</li>
+					<li class="dropdown">
+						<a href="javascript:;" class="dropdown-toggle">
+							<span class="fa fa-home"></span><span class="mtext">Kitchen Module</span>
+						</a>
+						<ul class="submenu">
+							<li><a href="add-billing.php">Add Kitchen Module</a></li>
+							<li><a href="tables-list.php">Menu List</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a href="javascript:;" class="dropdown-toggle">
+							<span class="fa fa-home"></span><span class="mtext">Menu Module </span>
+						</a>
+						<ul class="submenu">
+							<li><a href="add-billing.php">Add Menu Module</a></li>
+							<li><a href="tables-list.php">Menu List</a></li>
+						</ul>
+					</li>
+					
 					
 				</ul>
 			</div>

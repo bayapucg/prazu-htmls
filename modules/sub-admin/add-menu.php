@@ -9,7 +9,7 @@
 				<div class="row">
 					<div class="col-md-8 col-sm-12">
 						<div class="title pd-10">
-							<h4>Add Billing</h4>
+							<h4>Add Menu</h4>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-12 text-right">
@@ -17,7 +17,7 @@
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.php">Home</a>
 								</li>
-								<li class="breadcrumb-item active" aria-current="page">Add Billing</li>
+								<li class="breadcrumb-item active" aria-current="page">Add Menu</li>
 							</ol>
 						</nav>
 					</div>
@@ -27,16 +27,43 @@
 		<div class="bg-white pd-20 box-shadow border-radius-5 mb-30">
 			<form>
 				 <fieldset class="scheduler-border">
-						<legend class="scheduler-border">Billing Information</legend>
+						<legend class="scheduler-border">Menu Information</legend>
 					
 					<div class="row">
 					<div class="form-group col-md-6">
-						<label class="">Add Bank account details</label>
+						<label class="">Category</label>
 						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Enter Account Details" />
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Category Name" />
 						</div>
 					</div>
-					
+					<div class="form-group col-md-6">
+						<label class="">Sub Category</label>
+						<div class="">
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Sub Category Name" />
+						</div>
+					</div>	
+					<div class="form-group col-md-6">
+						<label class="">Item Name </label>
+						<div class="">
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Item Name" />
+						</div>
+					</div>
+					<div class="form-group col-md-6">
+						<label class="">Quantity</label>
+						<div class="">
+							<select class="form-control">
+									<option>Quantity</option>
+									<option>Half</option>
+									<option>Full</option>
+							</select>
+						</div>
+					</div>
+					<div class="form-group col-md-6">
+						<label class="">Price</label>
+						<div class="">
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Price Details" />
+						</div>
+					</div>
 					
 					<div class="form-group col-md-12">
 						<div class="col-lg-9 col-lg-offset-3">
