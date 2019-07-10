@@ -40,6 +40,24 @@
 							<li><a href="tables-list.php">Offers & Deals List</a></li>
 						</ul>
 					</li>
+					<li class="dropdown">
+						<a href="javascript:;" class="dropdown-toggle">
+							<span class="fa fa-home"></span><span class="mtext">Menu</span>
+						</a>
+						<ul class="submenu">
+							<li><a href="add-menu.php">Add Menu</a></li>
+							<li><a href="tables-list.php">Menu List</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a href="javascript:;" class="dropdown-toggle">
+							<span class="fa fa-home"></span><span class="mtext">Billing</span>
+						</a>
+						<ul class="submenu">
+							<li><a href="add-menu.php">Add Billing</a></li>
+							<li><a href="tables-list.php">Menu List</a></li>
+						</ul>
+					</li>
 					
 				</ul>
 			</div>
