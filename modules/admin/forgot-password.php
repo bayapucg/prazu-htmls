@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php include('../include/head.php'); ?>
+	<?php include('head.php'); ?>
 </head>
 <body style="background-image: url('../vendors/images/login-bac.png');background-position: center;background-repeat: no-repeat;background-size: cover;">
 

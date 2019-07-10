@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<?php include('../include/head.php'); ?>
-</head>
-<body>
-	<?php include('../include/header.php'); ?>
-	<?php include('../include/sidebar.php'); ?>
+<?php include( "head.php"); ?>
+<?php include( "header.php"); ?>
+<?php include( "sidebar.php"); ?>
 	<div class="main-container">
 		<div class="pd-ltr-20 customscroll customscroll-10-p height-100-p xs-pd-20-10">
 			<div class="row clearfix progress-box">
@@ -447,10 +442,10 @@
 					</div>
 				</div>
 			</div>
-			<?php include('..//footer.php'); ?>
+			<?php include('footer.php'); ?>
 		</div>
 	</div>
-	<?php include('../include/script.php'); ?>
+	<?php include('script.php'); ?>
 	<script src="../src/plugins/highcharts-6.0.7/code/highcharts.js"></script>
 	<script src="../src/plugins/highcharts-6.0.7/code/highcharts-more.js"></script>
 	<script type="text/javascript">
