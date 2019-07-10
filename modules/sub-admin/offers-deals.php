@@ -9,7 +9,7 @@
 				<div class="row">
 					<div class="col-md-8 col-sm-12">
 						<div class="title pd-10">
-							<h4>Add Table</h4>
+							<h4>Add offers & Deals </h4>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-12 text-right">
@@ -17,7 +17,7 @@
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.php">Home</a>
 								</li>
-								<li class="breadcrumb-item active" aria-current="page">Add Table</li>
+								<li class="breadcrumb-item active" aria-current="page">offers & Deals</li>
 							</ol>
 						</nav>
 					</div>
@@ -27,32 +27,39 @@
 		<div class="bg-white pd-20 box-shadow border-radius-5 mb-30">
 			<form>
 				 <fieldset class="scheduler-border">
-						<legend class="scheduler-border">Table Information</legend>
+						<legend class="scheduler-border">
+						Offers & Deals</legend>
 					
 					<div class="row">
 					<div class="form-group col-md-6">
-						<label class="">Floor Number</label>
+						<label class="">Offer type</label>
 						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Enter Floor Number" />
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Offer type" />
 						</div>
 					</div>
 					<div class="form-group col-md-6">
-						<label class="">Table Number</label>
+						<label class="">Item</label>
 						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Enter Table Number" />
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Item" />
 						</div>
 					</div>	
 					<div class="form-group col-md-6">
-						<label class="">No of Seats</label>
+						<label class="">Offer description</label>
 						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Enter Table Number" />
+							<textarea class="form-control">Description</textarea>
+						</div>
+					</div>
+						<div class="form-group col-md-6">
+						<label class="">Upload image</label>
+						<div class="">
+							<input type="file" class="form-control">
 						</div>
 					</div>
 					
 					
-					<div class="form-group col-md-12">
+					<div class="form-group col-md-6">
 						<div class="col-lg-9 col-lg-offset-3">
-							<button type="submit" class="btn btn-primary" name="signup" value="Sign up">Register and Generate Barcode</button>
+							<button type="submit" class="btn btn-primary" name="signup" value="Sign up">Add Offer</button>
 						</div>
 					</div>
 				</div>

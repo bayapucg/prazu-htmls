@@ -37,7 +37,7 @@
 						</a>
 						<ul class="submenu">
 							<li><a href="offers-deals.php">Offers & deals</a></li>
-							<li><a href="tables-list.php">Offers & Deals List</a></li>
+							<li><a href="offers-list.php">Offers & Deals List</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
