@@ -43,7 +43,7 @@
 				<div class="pd-20 bg-white border-radius-4 box-shadow mb-30">
 				
 					<div class="row">
-						<table class="stripe hover multiple-select-row data-table-export nowrap">
+						<table class="stripe data-table">
 							<thead>
 								<tr>
 									<th class="">Sr.no</th>
@@ -53,7 +53,8 @@
 									<th>Quantity</th>
 									<th>Price</th>
 									<th>Received Time</th>
-									<th>Action</th>
+									<th >Update Order</th>
+									<th >Close Order</th>
 								</tr>
 							</thead>
 							<tbody>
@@ -67,36 +68,15 @@
 									<td>12:00PM</td>
 									<td> 
 										<button type="button" class="btn btn-success btn-sm">Update Order</button>
+										
+									</td>
+									<td> 
 										<button type="button" class="btn btn-danger btn-sm">Close Order</button>
+										
 									</td>
 											
 								</tr>
-								<tr>
-									<td class="1">1</td>
-									<td>2</td>
-									<td class="table-plus">4</td>
-									<td>Aloo gobi</td>
-									<td>2</td>
-									<td>100</td>
-									<td>12:30PM</td>
-									<td>
-										<button type="button" class="btn btn-success btn-sm">Update Order</button>
-										<button type="button" class="btn btn-danger btn-sm">Close Order</button>
-									</td>
-								</tr>
-								<tr>
-									<td class="1">1</td>
-									<td class="table-plus">1</td>
-									<td>2</td>
-									<td>Mattar paneer</td>
-									<td>3</td>
-									<td>250</td>
-									<td>1:00PM</td>
-									<td>
-										<button type="button" class="btn btn-success btn-sm">Update Order</button>
-										<button type="button" class="btn btn-danger btn-sm">Close Order</button>
-									</td>
-								</tr>
+							
 								
 							</tbody>
 						</table>
