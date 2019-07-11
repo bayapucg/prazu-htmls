@@ -63,7 +63,16 @@
 							<span class="fa fa-home"></span><span class="mtext">Feedback & Ratings </span>
 						</a>
 						<ul class="submenu">
-							<li><a href="add-billing.php">Add Feedback & Ratings</a></li>
+							<li><a href="Add_Feedback & Ratings.php">Add Feedback & Ratings</a></li>
+							<li><a href="tables-list.php">Menu List</a></li>
+						</ul>
+					</li>
+					<li class="dropdown">
+						<a href="javascript:;" class="dropdown-toggle">
+							<span class="fa fa-home"></span><span class="mtext">Stats</span>
+						</a>
+						<ul class="submenu">
+							<li><a href="Add-stats.php">Add Stats</a></li>
 							<li><a href="tables-list.php">Menu List</a></li>
 						</ul>
 					</li>

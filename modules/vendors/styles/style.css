@@ -17972,15 +17972,7 @@ p {
   background: #eff5f7;
   color: #667f87; }
 
-.form-control {
-  font-family: 'Work Sans', sans-serif;
-  color: #131e22;
-  font-weight: 500;
-  height: 38px;
-  letter-spacing: 0.035em; }
 
-textarea.form-control {
-  height: 180px; }
 
 .form-control:focus {
   color: #131e22;
