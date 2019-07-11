@@ -15,78 +15,12 @@
 					</li>
 					<li class="dropdown">
 						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Restaurant </span>
+							<span class="fa fa-home"></span><span class="mtext">Orders List </span>
 						</a>
 						<ul class="submenu">
-							<li><a href="add-restaurant.php">Add Restaurant</a></li>
-							<li><a href="restaurant-list.php">Restaurant List</a></li>
+							<li><a href="orders.php">Orders</a></li>
 						</ul>
 					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Tables </span>
-						</a>
-						<ul class="submenu">
-							<li><a href="add-table.php">Add table</a></li>
-							<li><a href="tables-list.php">Tables List</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Offers & deals </span>
-						</a>
-						<ul class="submenu">
-							<li><a href="offers-deals.php">Offers & deals</a></li>
-							<li><a href="offers-list.php">Offers & Deals List</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Menu</span>
-						</a>
-						<ul class="submenu">
-							<li><a href="add-menu.php">Add Menu</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Billing</span>
-						</a>
-						<ul class="submenu">
-							<li><a href="add-billing.php">Add Billing</a></li>
-							<li><a href="tables-list.php">Billing List</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Feedback & Ratings </span>
-						</a>
-						<ul class="submenu">
-							<li><a href="add-billing.php">Add Feedback & Ratings</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Kitchen Module</span>
-						</a>
-						<ul class="submenu">
-							<li><a href="add-billing.php">Add Kitchen Module</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Menu Module </span>
-						</a>
-						<ul class="submenu">
-							<li><a href="add-billing.php">Add Menu Module</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
-						</ul>
-					</li>
-					
-					
 				</ul>
 			</div>
 		</div>
