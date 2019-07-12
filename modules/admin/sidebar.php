@@ -19,7 +19,7 @@
 						</a>
 						<ul class="submenu">
 							<li><a href="add-restaurant.php">Add Restaurant</a></li>
-							<li><a href="restaurant-list.php">Dashboard style 2</a></li>
+							<li><a href="restaurant-list.php">Restaurants List</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
