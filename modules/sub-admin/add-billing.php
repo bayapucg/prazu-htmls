@@ -48,12 +48,7 @@
 							<input type="text" class="form-control" name="firstName" placeholder="Enter IFSC Code" />
 						</div>
 					</div>
-					<div class="form-group col-md-6">
-						<label class="">Enter CVV</label>
-						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Enter IFSC Code" />
-						</div>
-					</div>
+					
 					
 					
 					<div class="form-group col-md-12">
