@@ -31,9 +31,27 @@
 					
 					<div class="row">
 					<div class="form-group col-md-6">
-						<label class="">Add Bank Account</label>
+						<label class="">Bank Account Name Holder</label>
 						<div class="">
 							<input type="text" class="form-control" name="firstName" placeholder="Enter Bank Account Details" />
+						</div>
+					</div>
+					<div class="form-group col-md-6">
+						<label class="">Bank Account Number</label>
+						<div class="">
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Bank Account Number" />
+						</div>
+					</div>
+					<div class="form-group col-md-6">
+						<label class="">IFSC Code</label>
+						<div class="">
+							<input type="text" class="form-control" name="firstName" placeholder="Enter IFSC Code" />
+						</div>
+					</div>
+					<div class="form-group col-md-6">
+						<label class="">Enter CVV</label>
+						<div class="">
+							<input type="text" class="form-control" name="firstName" placeholder="Enter IFSC Code" />
 						</div>
 					</div>
 					
