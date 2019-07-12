@@ -43,9 +43,9 @@
 						</div>
 					</div>	
 					<div class="form-group col-md-6">
-						<label class="">No of Seats</label>
+						<label class="">Number of Seats</label>
 						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Enter Table Number" />
+							<input type="text" class="form-control" name="firstName" placeholder="Enter No.of Seats" />
 						</div>
 					</div>
 					

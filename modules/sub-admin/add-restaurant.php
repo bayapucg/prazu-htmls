@@ -31,9 +31,9 @@
 					
 					<div class="row">
 					<div class="form-group col-md-6">
-						<label class="">Reg Number</label>
+						<label class="">Register Number</label>
 						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Restaurant Mobile Number" />
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Register Number" />
 						</div>
 					</div>
 					<div class="form-group col-md-6">
@@ -45,13 +45,13 @@
 					<div class="form-group col-md-6">
 						<label class="">Restaurant Mobile</label>
 						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Enter Restaurant Address" />
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Mobile Number" />
 						</div>
 					</div>
 					<div class="form-group col-md-6">
 						<label class="">Email</label>
 						<div class="">
-							<input type="text" class="form-control" name="firstName" placeholder="Restaurant Mobile Number" />
+							<input type="text" class="form-control" name="firstName" placeholder="Enter Email Address" />
 						</div>
 					</div>	
 					<div class="form-group col-md-12">

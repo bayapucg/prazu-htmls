@@ -60,9 +60,9 @@
 								<tr>
 									<td class="1">1</td>
 									<td class="table-plus">PRAZU01</td>
-									<td>Kaveri </td>
-									<td>8500226782</td>
-									<td>kaverires@gmail.com</td>
+									<td>Mehfil</td>
+									<td>xxxxxxxxxx</td>
+									<td>Mehfil@gmail.com</td>
 									<td>29-03-2018</td>
 									<td>
 										<div class="dropdown">
@@ -80,9 +80,9 @@
 								<tr>
 									<td class="1">3</td>
 									<td class="table-plus">PRAZU01</td>
-									<td>Kaveri </td>
-									<td>8500226782</td>
-									<td>kaverires@gmail.com</td>
+									<td>Pista House</td>
+									<td>xxxxxxxxxx</td>
+									<td>pistahouse@gmail.com</td>
 									<td>29-03-2018</td>
 									<td>
 										<div class="dropdown">
@@ -100,9 +100,9 @@
 								<tr>
 									<td class="1">3</td>
 									<td class="table-plus">PRAZU01</td>
-									<td>Kaveri </td>
-									<td>8500226782</td>
-									<td>kaverires@gmail.com</td>
+									<td>Southern Cafe</td>
+									<td>xxxxxxxxxx</td>
+									<td>southerncafe@gmail.com</td>
 									<td>29-03-2018</td>
 									<td>
 										<div class="dropdown">

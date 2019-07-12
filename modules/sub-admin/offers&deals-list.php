@@ -13,12 +13,12 @@
 					<div class="row">
 						<div class="col-md-6 col-sm-12">
 							<div class="title">
-								<h4>Tables List</h4>
+								<h4>Offers & Deals List</h4>
 							</div>
 							<nav aria-label="breadcrumb" role="navigation">
 								<ol class="breadcrumb">
 									<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-									<li class="breadcrumb-item active" aria-current="page">Tables List</li>
+									<li class="breadcrumb-item active" aria-current="page">Offers & Deals List</li>
 								</ol>
 							</nav>
 						</div>
@@ -47,28 +47,26 @@
 							<thead>
 								<tr>
 									<th class="">Sr.no</th>
-									<th class="table-plus datatable-nosort">Floor No</th>
-									<th>Table No</th>
-									<th>No of Seats</th>
-									<th>Barcode</th>
+									<th class="table-plus datatable-nosort">Offer Type</th>
+									<th>Item</th>
+									<th>Offer Description</th>
+									
 									<th>Action</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td class="1">1</td>
-									<td class="table-plus">B-5</td>
-									<td>2</td>
-									<td>3</td>
-									<td><img src="../vendors/images/barcode.png" style="width:80px;"></td>
-							
+									<td class="table-plus">50% off</td>
+									<td>Biryani</td>
+									
+									<td>50% off on order above 200RS/-</td>
 									<td>
 										<div class="dropdown">
 											<a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" data-toggle="dropdown">
 												<i class="fa fa-ellipsis-h"></i>
 											</a>
 											<div class="dropdown-menu dropdown-menu-right">
-												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> Print barcode</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> View</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-pencil"></i> Edit</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-trash"></i> Delete</a>
@@ -77,19 +75,17 @@
 									</td>
 								</tr>
 								<tr>
-									<td class="1">1</td>
-									<td class="table-plus">A-3</td>
-									<td>3</td>
-									<td>1</td>
-									<td><img src="../vendors/images/barcode.png" style="width:80px;"></td>
-							
+									<td class="1">3</td>
+									<td class="table-plus">Buy 1 Get 1 Free</td>
+									<td>Pizza & Burger</td>
+								
+									<td>Get free pizza and burger on order above 500RS/-</td>
 									<td>
 										<div class="dropdown">
 											<a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" data-toggle="dropdown">
 												<i class="fa fa-ellipsis-h"></i>
 											</a>
 											<div class="dropdown-menu dropdown-menu-right">
-												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> Print barcode</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> View</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-pencil"></i> Edit</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-trash"></i> Delete</a>
@@ -98,39 +94,17 @@
 									</td>
 								</tr>
 								<tr>
-									<td class="1">1</td>
-									<td class="table-plus">B-1</td>
-									<td>15</td>
-									<td>3</td>
-									<td><img src="../vendors/images/barcode.png" style="width:80px;"></td>
-							
+									<td class="1">3</td>
+									<td class="table-plus">Happy Hours</td>
+									<td>Soft Drinks</td>
+									
+									<td>It will be applicable from 6PM to 8PM EveryDay and you will get 1+1 On Soft Drinks..</td>
 									<td>
 										<div class="dropdown">
 											<a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" data-toggle="dropdown">
 												<i class="fa fa-ellipsis-h"></i>
 											</a>
 											<div class="dropdown-menu dropdown-menu-right">
-												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> Print barcode</a>
-												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> View</a>
-												<a class="dropdown-item" href="#"><i class="fa fa-pencil"></i> Edit</a>
-												<a class="dropdown-item" href="#"><i class="fa fa-trash"></i> Delete</a>
-											</div>
-										</div>
-									</td>
-								</tr><tr>
-									<td class="1">1</td>
-									<td class="table-plus">A-4</td>
-									<td>5</td>
-									<td>6</td>
-									<td><img src="../vendors/images/barcode.png" style="width:80px;"></td>
-							
-									<td>
-										<div class="dropdown">
-											<a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" data-toggle="dropdown">
-												<i class="fa fa-ellipsis-h"></i>
-											</a>
-											<div class="dropdown-menu dropdown-menu-right">
-												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> Print barcode</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> View</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-pencil"></i> Edit</a>
 												<a class="dropdown-item" href="#"><i class="fa fa-trash"></i> Delete</a>
@@ -138,8 +112,6 @@
 										</div>
 									</td>
 								</tr>
-								
-								
 								
 							</tbody>
 						</table>

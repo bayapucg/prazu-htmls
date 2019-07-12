@@ -37,7 +37,7 @@
 						</a>
 						<ul class="submenu">
 							<li><a href="offers-deals.php">Offers & deals</a></li>
-							<li><a href="offers-list.php">Offers & Deals List</a></li>
+							<li><a href="offers&deals-list.php">Offers & Deals List</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
@@ -46,7 +46,7 @@
 						</a>
 						<ul class="submenu">
 							<li><a href="add-menu.php">Add Menu</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
+							<li><a href="menu-list.php">Menu List</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
@@ -55,7 +55,7 @@
 						</a>
 						<ul class="submenu">
 							<li><a href="add-billing.php">Add Billing</a></li>
-							<li><a href="tables-list.php">Billing List</a></li>
+							<li><a href="billing-list.php">Billing List</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
@@ -64,7 +64,7 @@
 						</a>
 						<ul class="submenu">
 							<li><a href="Add_Feedback & Ratings.php">Add Feedback & Ratings</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
+							<li><a href="feedback&rating-list.php">Feedback & Rating List</a></li>
 						</ul>
 					</li>
 					<li class="dropdown">
@@ -73,29 +73,9 @@
 						</a>
 						<ul class="submenu">
 							<li><a href="Add-stats.php">Add Stats</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
+							<li><a href="tables-list.php">Stats List</a></li>
 						</ul>
 					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Kitchen Module</span>
-						</a>
-						<ul class="submenu">
-							<li><a href="add-billing.php">Add Kitchen Module</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
-						</ul>
-					</li>
-					<li class="dropdown">
-						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Menu Module </span>
-						</a>
-						<ul class="submenu">
-							<li><a href="add-billing.php">Add Menu Module</a></li>
-							<li><a href="tables-list.php">Menu List</a></li>
-						</ul>
-					</li>
-					
-					
 				</ul>
 			</div>
 		</div>

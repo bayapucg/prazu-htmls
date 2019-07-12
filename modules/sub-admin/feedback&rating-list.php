@@ -13,12 +13,12 @@
 					<div class="row">
 						<div class="col-md-6 col-sm-12">
 							<div class="title">
-								<h4>Add Feedback & Ratings </h4>
+								<h4>Add Feedback & Ratings List</h4>
 							</div>
 							<nav aria-label="breadcrumb" role="navigation">
 								<ol class="breadcrumb">
 									<li class="breadcrumb-item"><a href="index.php">Home</a></li>
-									<li class="breadcrumb-item active" aria-current="page">Add Feedback & Ratings</li>
+									<li class="breadcrumb-item active" aria-current="page">Add Feedback & Ratings List</li>
 								</ol>
 							</nav>
 						</div>
@@ -50,6 +50,7 @@
 									<th class="table-plus datatable-nosort">Restaurant Name</th>
 									<th>Rating</th>
 									<th>Comments</th>
+									<th>Action</th>
 									
 								</tr>
 							</thead>
@@ -78,6 +79,18 @@
 							</div>
 									</td>
 									<td><textarea class="form-control" rows="3">Comment</textarea></td>
+									<td>
+										<div class="dropdown">
+											<a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+												<i class="fa fa-ellipsis-h"></i>
+											</a>
+											<div class="dropdown-menu dropdown-menu-right">
+												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> View</a>
+												<a class="dropdown-item" href="#"><i class="fa fa-pencil"></i> Edit</a>
+												<a class="dropdown-item" href="#"><i class="fa fa-trash"></i> Delete</a>
+											</div>
+										</div>
+									</td>
 								</tr>
 								<tr>
 									<td class="1">1</td>
@@ -103,7 +116,18 @@
 							</div>
 									</td>
 									<td><textarea class="form-control" rows="3">Comment</textarea></td>
-									
+									<td>
+										<div class="dropdown">
+											<a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+												<i class="fa fa-ellipsis-h"></i>
+											</a>
+											<div class="dropdown-menu dropdown-menu-right">
+												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> View</a>
+												<a class="dropdown-item" href="#"><i class="fa fa-pencil"></i> Edit</a>
+												<a class="dropdown-item" href="#"><i class="fa fa-trash"></i> Delete</a>
+											</div>
+										</div>
+									</td>
 								</tr>
 								<tr>
 									<td class="1">1</td>
@@ -129,7 +153,18 @@
 							</div>
 									</td>
 									<td><textarea class="form-control" rows="3">Comment</textarea></td>
-									
+									<td>
+										<div class="dropdown">
+											<a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+												<i class="fa fa-ellipsis-h"></i>
+											</a>
+											<div class="dropdown-menu dropdown-menu-right">
+												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> View</a>
+												<a class="dropdown-item" href="#"><i class="fa fa-pencil"></i> Edit</a>
+												<a class="dropdown-item" href="#"><i class="fa fa-trash"></i> Delete</a>
+											</div>
+										</div>
+									</td>
 								</tr>
 								<tr>
 									<td class="1">1</td>
@@ -155,10 +190,19 @@
 							</div>
 									</td>
 									<td><textarea class="form-control" rows="3">Comment</textarea></td>
+									<td>
+										<div class="dropdown">
+											<a class="btn btn-outline-primary dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+												<i class="fa fa-ellipsis-h"></i>
+											</a>
+											<div class="dropdown-menu dropdown-menu-right">
+												<a class="dropdown-item" href="#"><i class="fa fa-eye"></i> View</a>
+												<a class="dropdown-item" href="#"><i class="fa fa-pencil"></i> Edit</a>
+												<a class="dropdown-item" href="#"><i class="fa fa-trash"></i> Delete</a>
+											</div>
+										</div>
+									</td>
 								</tr>
-								
-								
-								
 							</tbody>
 						</table>
 					</div>
