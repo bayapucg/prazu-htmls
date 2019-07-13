@@ -40,6 +40,12 @@
 							
 						</ul>
 					</li>
+					<li class="dropdown">
+						<a href="chat.php" class="dropdown-toggle">
+							<span class="fa fa-home"></span><span class="mtext">Chat</span>
+						</a>
+						
+					</li>
 				</ul>
 			</div>
 		</div>

@@ -51,7 +51,7 @@
 					</li>
 					<li class="dropdown">
 						<a href="javascript:;" class="dropdown-toggle">
-							<span class="fa fa-home"></span><span class="mtext">Billing</span>
+							<span class="fa fa-home"></span><span class="mtext">Receive Payment Details</span>
 						</a>
 						<ul class="submenu">
 							<li><a href="add-billing.php">Add Billing</a></li>

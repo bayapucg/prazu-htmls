@@ -9,7 +9,7 @@
 				<div class="row">
 					<div class="col-md-8 col-sm-12">
 						<div class="title pd-10">
-							<h4>Add Billing</h4>
+							<h4>Receive Payment Details</h4>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-12 text-right">
@@ -17,7 +17,7 @@
 							<ol class="breadcrumb">
 								<li class="breadcrumb-item"><a href="index.php">Home</a>
 								</li>
-								<li class="breadcrumb-item active" aria-current="page">Add Billing</li>
+								<li class="breadcrumb-item active" aria-current="page">Add Receive Payment Details</li>
 							</ol>
 						</nav>
 					</div>
@@ -27,7 +27,7 @@
 		<div class="bg-white pd-20 box-shadow border-radius-5 mb-30">
 			<form>
 				 <fieldset class="scheduler-border">
-						<legend class="scheduler-border">Billing Information</legend>
+						<legend class="scheduler-border">Receive Payment Details</legend>
 					
 					<div class="row">
 					<div class="form-group col-md-6">
